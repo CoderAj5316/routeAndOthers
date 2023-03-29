@@ -1,0 +1,21 @@
+.footerBox
+{
+    font-size: 20px;
+    height: 75px;
+    width: 100vw;
+    background-color: rgb(207, 47, 47);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    bottom: 0;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.footerBox a
+{
+    color: white;
+}

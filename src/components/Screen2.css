@@ -1,0 +1,15 @@
+.mainDiv
+{   
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerDiv
+{
+    background-color: crimson;
+    border-radius: 3.5px;
+    font-size: 20px;
+   
+}

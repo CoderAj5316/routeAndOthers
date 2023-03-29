@@ -1,0 +1,52 @@
+.form-group
+{
+    margin-top: 15px;
+    width: 50%;
+}
+button
+{
+    margin-top: 8px;
+    margin-bottom: 15px;
+}
+
+.btn-btn-primary
+{
+    width: 90px;
+    background-color: wheat;
+    font-size: 20px;
+}
+
+.eachItem
+{
+    font-size: 22px;
+    background-color: wheat;
+    border-radius: 3px;
+}
+.eachItem:hover
+{
+    background: red;
+}
+.showItems
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 15px;
+    width: 30%;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+
+.mainDiv
+{   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 35px;
+}
+
+.form-control
+{
+    width: 220px;
+}
